@@ -70,7 +70,9 @@ const Link = styled.a`
   color: inherit;
 `;
 
-const Wrapper = styled.article``;
+const Wrapper = styled.article`
+  will-change: transform;
+`;
 
 const ImageWrapper = styled.div`
   position: relative;
