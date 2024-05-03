@@ -13,3 +13,5 @@ Cuando la URL pública de sonar cambia por levantar de nuevo con ngrok hay que h
 https://docs.sonarsource.com/sonarqube/latest/setup-and-upgrade/install-a-plugin/
 
 https://github.com/green-code-initiative/ecoCode-javascript/releases/download/1.5.0/ecocode-javascript-plugin-1.5.0.jar 
+
+Arturo
