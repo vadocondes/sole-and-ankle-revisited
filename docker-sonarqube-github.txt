@@ -7,3 +7,5 @@
  Como HomePage URL hay que poner la url de gitHub del proyecto. IMPORTANTE no poner la url indicada en esa docu
 5.- En nuestra instancia de SonarQube: https://docs.sonarsource.com/sonarqube/latest/devops-platform-integration/github-integration/setting-up-integration/#step-3-updating-your-sonarqube-global-settings-with-your-github-app-information
 
+Cuando la URL pública de sonar cambia por levantar de nuevo con ngrok hay que hacer los siguientes cambios:
+
