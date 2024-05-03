@@ -82,12 +82,7 @@ const DesktopNav = styled.nav`
     9vw - 4.25rem,
     3rem
   );
-
-
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 48px;
-  margin-right: 48px;
+  margin: 0px 48px;
   @media ${QUERIES.tabletAndDown} {
     display: none;
   }
