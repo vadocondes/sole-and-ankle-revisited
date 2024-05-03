@@ -71,7 +71,6 @@ const Link = styled.a`
 `;
 
 const Wrapper = styled.article`
-  will-change: transform;
 `;
 
 const ImageWrapper = styled.div`
